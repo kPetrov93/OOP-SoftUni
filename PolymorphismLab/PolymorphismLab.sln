@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "PolymorphismLab\Operations.csproj", "{9BCA0335-F5EE-4DC1-B0D6-75F47B1062A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{F9260843-7828-4009-A291-FD300499C667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{CCD52713-3E9F-4385-B131-C03C0F1F6B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCA0335-F5EE-4DC1-B0D6-75F47B1062A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCA0335-F5EE-4DC1-B0D6-75F47B1062A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCA0335-F5EE-4DC1-B0D6-75F47B1062A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCA0335-F5EE-4DC1-B0D6-75F47B1062A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9260843-7828-4009-A291-FD300499C667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9260843-7828-4009-A291-FD300499C667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9260843-7828-4009-A291-FD300499C667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9260843-7828-4009-A291-FD300499C667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD52713-3E9F-4385-B131-C03C0F1F6B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD52713-3E9F-4385-B131-C03C0F1F6B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD52713-3E9F-4385-B131-C03C0F1F6B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD52713-3E9F-4385-B131-C03C0F1F6B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690BCF4D-560F-418E-8D80-C04B414D2BE5}
+	EndGlobalSection
+EndGlobal
